@@ -1,0 +1,19 @@
+{
+  "name": "nowater",
+  "version": "1.0.0",
+  "description": "raising awareness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zylstraj/No-water.git"
+  },
+  "author": "Josh Zylstra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylstraj/No-water/issues"
+  },
+  "homepage": "https://github.com/zylstraj/No-water#readme"
+}

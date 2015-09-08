@@ -151,9 +151,9 @@ table {
     width: 100%; } }
 
 @media (min-width: 50em) and (max-width: 68.75em) {
-  .bit-2, .bit-7 {
+  .bit-7 {
     width: 100%; }
-  .bit-4, .bit-8, .bit-10, .bit-12 {
+  .bit-2, .bit-4, .bit-8, .bit-10, .bit-12 {
     width: 50%; } }
 
 .box {

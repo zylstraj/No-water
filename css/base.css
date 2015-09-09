@@ -4,4 +4,12 @@
 section {
   padding: 0 .5em;
 }
-/* Not good with section. Very basic but for any bigger site this is a terrible fucking idea. So don't keep it/*
+body {
+  font-size: 1em;
+}
+/* Not good with section. Very basic but for any bigger site this is a terrible fucking idea. So don't keep it */
+h1 {
+  color: blue;
+  font-family: Helvetica;
+  font-size: 2em;
+}

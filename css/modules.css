@@ -1,0 +1,15 @@
+.navList {
+  text-align: center;
+  margin-left: 2em;
+  font-size: 2em;
+  font-family: Trajan Pro 3;
+}
+.navList:hover {
+  color: red;
+}
+.navList a:visited {
+  color: black;
+}
+.navList a {
+  color: black;
+}

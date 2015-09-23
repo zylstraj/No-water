@@ -10,7 +10,6 @@ body {
 }
 /* Not good with section. Very basic but for any bigger site this is a terrible fucking idea. So don't keep it */
 h1 {
-  color: blue;
   font-family: Century Gothic;
   font-size: 2em;
 }
@@ -18,5 +17,12 @@ footer {
   clear: both;
 }
 ul li {
+  text-decoration: none;
+}
+.navList {
+  text-decoration: none;
+  display: inline;
+}
+a {
   text-decoration: none;
 }
